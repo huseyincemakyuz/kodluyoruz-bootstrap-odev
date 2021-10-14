@@ -1,8 +1,7 @@
- h1, h2 {
-    text-align: center;
-}
 
-.ana-baslik {
+
+
+/* .ana-baslik {
     color:red;
 }
 
@@ -17,10 +16,10 @@
     text-decoration: none;
     margin-right: 40%;
     
-} 
+}  */
 
 
-.ana-menu li{
+/* .ana-menu li{
     display: inline;
 }
 
@@ -28,12 +27,12 @@
     color: green;
     text-align: center;
     font-size: 50px;
-   
+    */
 
-}
-.bg {
+
+/* .bg {
     background-color:#e9ecef;
-}
+} */
 .ana-sayfa-ph3 {
     text-align: center;
 }
@@ -43,14 +42,10 @@ ul,ol {
     list-style-position: inside;
     
 }  
-
+/* 
 .hakkimizda {
     color:chocolate
 }
 .hakkimizda-h3 {
     color:black
-} 
-.buton {
-    text-align: center;
-    color:blue;
-}
+}  */ 
